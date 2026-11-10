@@ -1,0 +1,3 @@
+# No external packages are required for this project.
+# The game runs using Python's built-in standard library (random, sys, unittest).
+# Python 3.6 or higher is recommended.
